@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))().Load()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Petspawner1/Visualrandomizer/refs/heads/main/Randomvisual"))()
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/RTgv6VnD7i3mqKOP/raw", true))()
